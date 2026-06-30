@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi My Name is Siddharth ;)<br>I am a B.E. Information Technology Student<br>Welcome to my Github Profile...!
+Hi My Name is Siddharth ;)<br>I am an IT Enthusiast<br>Welcome to my Github Profile...!
 
 
 ## 🌐 Socials:
