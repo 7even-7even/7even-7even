@@ -54,11 +54,11 @@ I'm a passionate **Software Developer & IT Enthusiast** dedicated to building sc
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=7even-7even&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=7even-7even&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" height="165" />
-</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=7even-7even&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7even-7even&theme=tokyonight" alt="GitHub Summary" height="175" />
+</p>
 ---
 
 <p align="center">
