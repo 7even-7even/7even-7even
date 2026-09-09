@@ -55,8 +55,8 @@ I'm a passionate **Software Developer & IT Enthusiast** dedicated to building sc
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7even-7even&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7even-7even&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=7even-7even&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=7even-7even&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -66,5 +66,5 @@ I'm a passionate **Software Developer & IT Enthusiast** dedicated to building sc
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=7even-7even&label=Profile%20Views&icon=5&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=7even-7even&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
