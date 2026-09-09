@@ -56,6 +56,14 @@ I'm a passionate **Software Developer & IT Enthusiast** dedicated to building sc
 
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7even-7even&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=7even-7even&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=7even-7even&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7even-7even&theme=tokyonight" alt="GitHub Summary" height="175" />
 </p>
